@@ -124,3 +124,10 @@ header h1 {
     width: 100%;
   }
 }
+
+.pink {
+
+  background-color: rgb(255, 187, 239);
+  color: #ffffff;
+}
+
